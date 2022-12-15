@@ -9,7 +9,7 @@ const about = {
   name: 'Arturo Romero',
   role: 'Software Developer',
   description:
-    'Welcome to my personal website! I am a developer from Argentina looking forward to solve real world problems and give value with the help of technology. Here you can find my best projects :) ',
+    'Welcome to my personal website! I am a fullstack developer from Argentina looking forward to solve real world problems and give value with the help of technology. Here you can find my best projects; Currently I am working in new projects so there will be updates soon',
   resume:
     'https://drive.google.com/file/d/1KIWOpvyUjpZFLicN7mw9-pIfmQu6PhzD/view?usp=share_link',
   social: {
