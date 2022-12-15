@@ -9,9 +9,9 @@ const about = {
   name: 'Arturo Romero',
   role: 'Software Developer',
   description:
-    "Welcome to my personal website! I am from Argentina. I'm excited to make my first steps into professional software engineering. I'm looking forward to solving real world problems and giving value with the help of technology. Here you can find my best projects, and more... :) ",
+    'Welcome to my personal website! I am a developer from Argentina looking forward to solve real world problems and give value with the help of technology. Here you can find my best projects :) ',
   resume:
-    'https://drive.google.com/file/d/1XVcNMVloU8XRQb2-N5PkvYrcUUpP9OTn/view?usp=sharing',
+    'https://drive.google.com/file/d/1KIWOpvyUjpZFLicN7mw9-pIfmQu6PhzD/view?usp=share_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/arturo-romero1997/',
     github: 'https://github.com/Artur-0',
@@ -24,7 +24,7 @@ const projects = [
   {
     name: 'Point of sale',
     description:
-      'An app for internal use in a fast food restaurant, making it easier to manage sales, and connecting the teamwork between the kitchen and the front cashier.',
+      'App developed with a team of six developers applying the agile scrum methodology. An app for internal use in a fast food restaurant that connects the teamwork between the kitchen and the front cashier with functions like cash management,stock of products, payments through credit cards, management and history of orders, and more.',
     stack: [
       'React',
       'Redux toolkit',
@@ -36,12 +36,12 @@ const projects = [
       'Styled-components',
     ],
     sourceCode: 'https://github.com/Artur-0/pf-henry-point-of-sale',
-    livePreview: 'https://pf-henry-point-of-sale.vercel.app/',
+    livePreview: 'https://vimeo.com/755317810',
   },
   {
     name: 'Pokemon',
     description:
-      'An app that consume an API of pokemons showing them in cards, with functions like search by name, filter by type of pokemon and even create a new one',
+      'A Pokemon themed single page application that consumes an API, with functions like filters, sorts,searching by name, pagination, and the possibility to create a new pokemon. ',
     stack: [
       'React',
       'Redux',
